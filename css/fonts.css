@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: "Andromeda";
+  src: url(../fonts/andromeda.woff2), url(../fonts/andromeda.woff); 
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto Condensed";
+  src: url(../fonts/RobotoCondensed-Regular.woff); 
+  font-weight: 500;
+  font-style: normal;
+}
